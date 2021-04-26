@@ -1,0 +1,2 @@
+# Baguley Planning
+Baguley Planning is an iOS app for parents and their kids that was developed in Fall 2020. The parents page of the app displays their child's name and when clicked on displays a new chore from that child's chore list. The kids page of the app is a simple double digit math game that will only load the next problem if answered correctly. This app was developed in hope to have an app that a parent can download that is helpful to them and can be educational for their young children too.
