@@ -7,9 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BF16B71B251BC97600707066 /* ParentsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF16B71A251BC97600707066 /* ParentsViewController.swift */; };
 		BFFB4ED7250FBE3C009047EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFB4ED6250FBE3C009047EE /* AppDelegate.swift */; };
 		BFFB4ED9250FBE3C009047EE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFB4ED8250FBE3C009047EE /* SceneDelegate.swift */; };
-		BFFB4EDB250FBE3C009047EE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFB4EDA250FBE3C009047EE /* ViewController.swift */; };
+		BFFB4EDB250FBE3C009047EE /* KidsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFFB4EDA250FBE3C009047EE /* KidsViewController.swift */; };
 		BFFB4EDE250FBE3C009047EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFFB4EDC250FBE3C009047EE /* Main.storyboard */; };
 		BFFB4EE0250FBE3F009047EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFFB4EDF250FBE3F009047EE /* Assets.xcassets */; };
 		BFFB4EE3250FBE3F009047EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFFB4EE1250FBE3F009047EE /* LaunchScreen.storyboard */; };
@@ -35,10 +36,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BFFB4ED3250FBE3C009047EE /* ProjectOne.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProjectOne.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF16B71A251BC97600707066 /* ParentsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParentsViewController.swift; sourceTree = "<group>"; };
+		BFFB4ED3250FBE3C009047EE /* Baguley Planning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Baguley Planning.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFFB4ED6250FBE3C009047EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BFFB4ED8250FBE3C009047EE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		BFFB4EDA250FBE3C009047EE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		BFFB4EDA250FBE3C009047EE /* KidsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KidsViewController.swift; sourceTree = "<group>"; };
 		BFFB4EDD250FBE3C009047EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BFFB4EDF250FBE3F009047EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BFFB4EE2250FBE3F009047EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -89,7 +91,7 @@
 		BFFB4ED4250FBE3C009047EE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BFFB4ED3250FBE3C009047EE /* ProjectOne.app */,
+				BFFB4ED3250FBE3C009047EE /* Baguley Planning.app */,
 				BFFB4EE9250FBE3F009047EE /* ProjectOneTests.xctest */,
 				BFFB4EF4250FBE3F009047EE /* ProjectOneUITests.xctest */,
 			);
@@ -101,7 +103,8 @@
 			children = (
 				BFFB4ED6250FBE3C009047EE /* AppDelegate.swift */,
 				BFFB4ED8250FBE3C009047EE /* SceneDelegate.swift */,
-				BFFB4EDA250FBE3C009047EE /* ViewController.swift */,
+				BFFB4EDA250FBE3C009047EE /* KidsViewController.swift */,
+				BF16B71A251BC97600707066 /* ParentsViewController.swift */,
 				BFFB4EDC250FBE3C009047EE /* Main.storyboard */,
 				BFFB4EDF250FBE3F009047EE /* Assets.xcassets */,
 				BFFB4EE1250FBE3F009047EE /* LaunchScreen.storyboard */,
@@ -145,7 +148,7 @@
 			);
 			name = ProjectOne;
 			productName = ProjectOne;
-			productReference = BFFB4ED3250FBE3C009047EE /* ProjectOne.app */;
+			productReference = BFFB4ED3250FBE3C009047EE /* Baguley Planning.app */;
 			productType = "com.apple.product-type.application";
 		};
 		BFFB4EE8250FBE3F009047EE /* ProjectOneTests */ = {
@@ -259,8 +262,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BFFB4EDB250FBE3C009047EE /* ViewController.swift in Sources */,
+				BFFB4EDB250FBE3C009047EE /* KidsViewController.swift in Sources */,
 				BFFB4ED7250FBE3C009047EE /* AppDelegate.swift in Sources */,
+				BF16B71B251BC97600707066 /* ParentsViewController.swift in Sources */,
 				BFFB4ED9250FBE3C009047EE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -440,8 +444,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.kirkbaguley.ProjectOne;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kirkbaguley.BaguleyPlanning;
+				PRODUCT_NAME = "Baguley Planning";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -457,8 +461,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.kirkbaguley.ProjectOne;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.kirkbaguley.BaguleyPlanning;
+				PRODUCT_NAME = "Baguley Planning";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

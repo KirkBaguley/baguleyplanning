@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4D1EC9E1-1EFB-4F5C-BADC-F9D269D01C22"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9D25183-1083-4EF0-8D5B-F020EEC4B528"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ProjectOne/ParentsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ParentsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B9D25183-1083-4EF0-8D5B-F020EEC4B528 - 43a19b9ac21a422b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectOne.ParentsViewController.aaliyahLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ProjectOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/KIRK/CS3020/ProjectOne/ProjectOne/ParentsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "B9D25183-1083-4EF0-8D5B-F020EEC4B528 - 222b22d07af1e61f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectOne.ParentsViewController.aaliyahLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ProjectOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/KIRK/CS3020/ProjectOne/ProjectOne/ParentsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "B9D25183-1083-4EF0-8D5B-F020EEC4B528 - 7cc0275bb2d1fb28"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectOne.ParentsViewController.aaliyahLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ProjectOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/KIRK/CS3020/ProjectOne/ProjectOne/ParentsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "B9D25183-1083-4EF0-8D5B-F020EEC4B528 - 2caa6cef96523620"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectOne.ParentsViewController.aaliyahLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ProjectOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/KIRK/CS3020/ProjectOne/ProjectOne/ParentsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "B9D25183-1083-4EF0-8D5B-F020EEC4B528 - 71eaeceb1266608c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectOne.ParentsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ProjectOne.ParentsViewController"
+                  moduleName = "ProjectOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/KIRK/CS3020/ProjectOne/ProjectOne/ParentsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "B9D25183-1083-4EF0-8D5B-F020EEC4B528 - 1b160e72849ce8bb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ProjectOne.ParentsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ProjectOne.ParentsViewController&gt;"
+                  moduleName = "ProjectOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/KIRK/CS3020/ProjectOne/ProjectOne/ParentsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
